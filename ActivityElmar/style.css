@@ -1,0 +1,21 @@
+* {
+	font-family: "Juice ITC Regular";
+
+}
+
+  h1 {
+  	color:#181818;
+  	font-size: 90px;
+  }
+
+  img {
+
+  	width: 100px;
+  	height: 100px;
+  }
+
+body {
+
+	background: url('elmar.jpg');
+}
+
